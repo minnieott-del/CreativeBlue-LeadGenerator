@@ -1,0 +1,6 @@
+{
+  "name": "Creative Blue Lead Gen",
+  "description": "An application that uses AI to generate US-based lead lists and customized outreach email pitches tailored to your company website profile.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
